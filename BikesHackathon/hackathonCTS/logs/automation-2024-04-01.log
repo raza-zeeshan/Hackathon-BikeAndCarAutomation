@@ -1,0 +1,51 @@
+20:50:40.591 [main] INFO  testCases.TC_004_E2E - ***** Starting TC_003_UsedCarsChennai  *****
+20:50:40.602 [main] INFO  testCases.TC_004_E2E - Moved cursor to Used Cars Dropdown
+20:50:40.751 [main] INFO  testCases.TC_004_E2E - Selecting Chennai from List
+20:50:58.177 [main] INFO  testCases.TC_004_E2E - ***** Finished TC_003_UsedCarsChennai   *****
+21:21:55.954 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321905\Downloads\BikesHackathon\BikesHackathon\hackathonCTS\crossbrowsertest.xml
+
+21:22:03.272 [TestNG-tests-2] INFO  testCases.TC_001_NavigateFromHomePage - *****  Starting TC_001_NavigateFromHomePage  *****
+21:22:03.781 [TestNG-tests-2] INFO  testCases.TC_001_NavigateFromHomePage - Moved curson to NewBikes Dropdown
+21:22:04.332 [TestNG-tests-1] INFO  testCases.TC_001_NavigateFromHomePage - *****  Starting TC_001_NavigateFromHomePage  *****
+21:22:04.581 [TestNG-tests-1] INFO  testCases.TC_001_NavigateFromHomePage - Moved curson to NewBikes Dropdown
+21:22:06.669 [TestNG-tests-1] INFO  testCases.TC_001_NavigateFromHomePage - Clicked on Upcoming Bikes Section
+21:22:06.669 [TestNG-tests-1] INFO  testCases.TC_001_NavigateFromHomePage - *****  Finished TC_001_NavigateFromHomePage  *****
+21:22:10.290 [TestNG-tests-2] INFO  testCases.TC_001_NavigateFromHomePage - Clicked on Upcoming Bikes Section
+21:22:10.290 [TestNG-tests-2] INFO  testCases.TC_001_NavigateFromHomePage - *****  Finished TC_001_NavigateFromHomePage  *****
+21:24:00.518 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321905\Downloads\BikesHackathon\BikesHackathon\hackathonCTS\master.xml
+
+21:24:05.559 [main] INFO  testCases.TC_004_E2E - *****  Starting TC_001_NavigateFromHomePage  *****
+21:24:06.178 [main] INFO  testCases.TC_004_E2E - Moved curson to NewBikes Dropdown
+21:24:11.577 [main] INFO  testCases.TC_004_E2E - Clicked on Upcoming Bikes Section
+21:24:11.577 [main] INFO  testCases.TC_004_E2E - *****  Finished TC_001_NavigateFromHomePage  *****
+21:24:11.621 [main] INFO  testCases.TC_004_E2E - *****  Starting TC_002_UpcomingCarDetails  *****
+21:24:11.634 [main] INFO  testCases.TC_004_E2E - Selecting Honda from Manufacturers List
+21:24:12.754 [main] INFO  testCases.TC_004_E2E - Printing the bike details on Console
+21:24:14.386 [main] INFO  testCases.TC_004_E2E - *****  Finished TC_002_UpcomingCarDetails   *****
+21:24:14.401 [main] INFO  testCases.TC_004_E2E - ***** Starting TC_003_UsedCarsChennai  *****
+21:24:14.406 [main] INFO  testCases.TC_004_E2E - Moved cursor to Used Cars Dropdown
+21:24:14.624 [main] INFO  testCases.TC_004_E2E - Selecting Chennai from List
+21:24:30.511 [main] INFO  testCases.TC_004_E2E - ***** Finished TC_003_UsedCarsChennai   *****
+13:06:58.357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+13:06:58.379 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+13:06:58.384 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.385 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.387 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.387 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.388 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.389 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.397 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+13:06:58.412 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+13:06:58.414 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.415 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.416 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.417 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.417 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.418 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.425 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:06:58.426 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:06:58.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

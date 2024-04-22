@@ -1,0 +1,60 @@
+13:14:52.650 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.658 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.658 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.662 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:14:52.663 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:14:52.672 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\AppData\Local\Temp\6\testng-eclipse--777565986\testng-customsuite.xml
+
+13:14:52.699 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+13:15:39.605 [main] INFO  testCases.TC_001_NavigateFromHomePage - *****  Starting TC_001_NavigateFromHomePage extends BaseClass  *****
+13:15:39.779 [main] INFO  testCases.TC_001_NavigateFromHomePage - Moved curson to NewBikes Dropdown
+13:15:39.848 [main] INFO  testCases.TC_001_NavigateFromHomePage - Clicked on Upcoming Bikes Section
+13:15:39.848 [main] INFO  testCases.TC_001_NavigateFromHomePage - *****  Finished TC_001_NavigateFromHomePage extends BaseClass  *****
+13:15:41.387 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@476a736d: 42 ms
+13:15:41.388 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5f80fa43: 1 ms
+13:15:41.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7e75bf2d: 5 ms
+13:15:41.397 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d171ce0: 4 ms
+13:15:41.402 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@57b75756: 5 ms
+13:15:41.402 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5327a06e: 0 ms
+16:31:46.981 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\testng.xml
+
+16:32:43.601 [main] INFO  testCases.TC_001_NavigateFromHomePage - *****  Starting TC_001_NavigateFromHomePage  *****
+16:32:43.909 [main] INFO  testCases.TC_001_NavigateFromHomePage - Moved curson to NewBikes Dropdown
+16:32:45.128 [main] INFO  testCases.TC_001_NavigateFromHomePage - Clicked on Upcoming Bikes Section
+16:32:45.128 [main] INFO  testCases.TC_001_NavigateFromHomePage - *****  Finished TC_001_NavigateFromHomePage  *****
+16:34:58.480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+16:36:09.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+16:36:09.799 [main] INFO  testCases.TC_001_NavigateFromHomePage - *****  Starting TC_001_NavigateFromHomePage  *****
+16:36:23.469 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+16:36:53.221 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+16:48:31.702 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\crossbrowsertest.xml
+
+16:48:53.949 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\crossbrowsertest.xml
+
+16:49:25.865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\crossbrowsertest.xml
+

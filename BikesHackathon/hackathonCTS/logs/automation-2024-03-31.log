@@ -1,0 +1,67 @@
+20:25:49.065 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:25:49.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:25:49.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:25:49.074 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:25:49.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:25:49.075 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:25:49.076 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:25:49.076 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:25:49.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\AppData\Local\Temp\9\testng-eclipse-1686467115\testng-customsuite.xml
+
+20:25:49.101 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+20:25:49.246 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7e38a7fe: 65 ms
+20:25:49.257 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@56276db8: 11 ms
+20:25:49.265 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b080f3a: 7 ms
+20:25:49.274 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@292d1c71: 9 ms
+20:25:49.278 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@50eca7c6: 4 ms
+20:25:49.278 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58e6d4b8: 0 ms
+20:25:59.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:26:46.825 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:28:49.995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:30:19.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:31:19.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:34:28.909 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:47:51.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:48:17.605 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:50:10.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:50:15.907 [main] INFO  testCases.TC_004_E2E - *****  Starting TC_001_NavigateFromHomePage  *****
+20:50:16.121 [main] INFO  testCases.TC_004_E2E - Moved curson to NewBikes Dropdown
+20:50:16.773 [main] INFO  testCases.TC_004_E2E - Clicked on Upcoming Bikes Section
+20:50:16.774 [main] INFO  testCases.TC_004_E2E - *****  Finished TC_001_NavigateFromHomePage  *****
+20:50:16.810 [main] INFO  testCases.TC_004_E2E - *****  Starting TC_002_UpcomingCarDetails  *****
+20:50:16.821 [main] INFO  testCases.TC_004_E2E - Selecting Honda from Manufacturers List
+20:50:17.676 [main] INFO  testCases.TC_004_E2E - Printing the bike details on Console
+20:50:18.314 [main] INFO  testCases.TC_004_E2E - *****  Finished TC_002_UpcomingCarDetails   *****
+20:50:18.316 [main] INFO  testCases.TC_004_E2E - ***** Starting TC_003_UsedCarsChennai  *****
+20:50:18.318 [main] INFO  testCases.TC_004_E2E - Moved cursor to Used Cars Dropdown
+20:50:18.492 [main] INFO  testCases.TC_004_E2E - Selecting Chennai from List
+20:50:32.692 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2321885\eclipse-workspace\hackathonCTS\master.xml
+
+20:50:38.132 [main] INFO  testCases.TC_004_E2E - *****  Starting TC_001_NavigateFromHomePage  *****
+20:50:38.416 [main] INFO  testCases.TC_004_E2E - Moved curson to NewBikes Dropdown
+20:50:38.930 [main] INFO  testCases.TC_004_E2E - Clicked on Upcoming Bikes Section
+20:50:38.930 [main] INFO  testCases.TC_004_E2E - *****  Finished TC_001_NavigateFromHomePage  *****
+20:50:38.954 [main] INFO  testCases.TC_004_E2E - *****  Starting TC_002_UpcomingCarDetails  *****
+20:50:38.962 [main] INFO  testCases.TC_004_E2E - Selecting Honda from Manufacturers List
+20:50:40.045 [main] INFO  testCases.TC_004_E2E - Printing the bike details on Console
+20:50:40.587 [main] INFO  testCases.TC_004_E2E - *****  Finished TC_002_UpcomingCarDetails   *****
